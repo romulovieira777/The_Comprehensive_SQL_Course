@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ROWSET>
+ <ROW>
+  <ID>10</ID>
+  <CODE>NA</CODE>
+  <NAME>North America</NAME>
+ </ROW>
+ <ROW>
+  <ID>20</ID>
+  <CODE>EMEA</CODE>
+  <NAME>Europe, Middle East, and Africa</NAME>
+ </ROW>
+ <ROW>
+  <ID>30</ID>
+  <CODE>APAC</CODE>
+  <NAME>  Asia Pacific</NAME>
+ </ROW>
+ <ROW>
+  <ID>40</ID>
+  <CODE>LAD</CODE>
+  <NAME> Latin America</NAME>
+ </ROW>
+</ROWSET>

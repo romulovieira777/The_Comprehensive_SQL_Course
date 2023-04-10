@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ROWSET>
+ <ROW>
+  <ID>10</ID>
+  <NAME>America</NAME>
+ </ROW>
+ <ROW>
+  <ID>20</ID>
+  <NAME>Europe</NAME>
+ </ROW>
+ <ROW>
+  <ID>30</ID>
+  <NAME>Asia</NAME>
+ </ROW>
+ <ROW>
+  <ID>40</ID>
+  <NAME>Oceania</NAME>
+ </ROW>
+ <ROW>
+  <ID>50</ID>
+  <NAME>Africa</NAME>
+ </ROW>
+</ROWSET>

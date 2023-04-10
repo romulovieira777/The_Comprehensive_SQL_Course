@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<ROWSET>
+ <ROW>
+  <ID>10</ID>
+  <NAME>Latin America and the Caribbean</NAME>
+ </ROW>
+ <ROW>
+  <ID>20</ID>
+  <NAME>Polynesia</NAME>
+ </ROW>
+ <ROW>
+  <ID>30</ID>
+  <NAME>Southern Asia</NAME>
+ </ROW>
+ <ROW>
+  <ID>40</ID>
+  <NAME>Northern Africa</NAME>
+ </ROW>
+ <ROW>
+  <ID>50</ID>
+  <NAME>Micronesia</NAME>
+ </ROW>
+ <ROW>
+  <ID>60</ID>
+  <NAME>Eastern Asia</NAME>
+ </ROW>
+ <ROW>
+  <ID>70</ID>
+  <NAME>Southern Europe</NAME>
+ </ROW>
+ <ROW>
+  <ID>80</ID>
+  <NAME>Northern America</NAME>
+ </ROW>
+ <ROW>
+  <ID>90</ID>
+  <NAME>Australia and New Zealand</NAME>
+ </ROW>
+ <ROW>
+  <ID>100</ID>
+  <NAME>South-eastern Asia</NAME>
+ </ROW>
+ <ROW>
+  <ID>110</ID>
+  <NAME>Central Asia</NAME>
+ </ROW>
+ <ROW>
+  <ID>120</ID>
+  <NAME>Northern Europe</NAME>
+ </ROW>
+ <ROW>
+  <ID>130</ID>
+  <NAME>Melanesia</NAME>
+ </ROW>
+ <ROW>
+  <ID>140</ID>
+  <NAME>Eastern Europe</NAME>
+ </ROW>
+ <ROW>
+  <ID>150</ID>
+  <NAME>Western Europe</NAME>
+ </ROW>
+ <ROW>
+  <ID>160</ID>
+  <NAME>Sub-Saharan Africa</NAME>
+ </ROW>
+ <ROW>
+  <ID>170</ID>
+  <NAME>Western Asia</NAME>
+ </ROW>
+</ROWSET>

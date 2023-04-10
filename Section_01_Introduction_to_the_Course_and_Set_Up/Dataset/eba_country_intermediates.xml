@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ROWSET>
+ <ROW>
+  <ID>10</ID>
+  <NAME>Western Africa</NAME>
+ </ROW>
+ <ROW>
+  <ID>20</ID>
+  <NAME>Central America</NAME>
+ </ROW>
+ <ROW>
+  <ID>30</ID>
+  <NAME>Southern Africa</NAME>
+ </ROW>
+ <ROW>
+  <ID>40</ID>
+  <NAME>South America</NAME>
+ </ROW>
+ <ROW>
+  <ID>50</ID>
+  <NAME>Eastern Africa</NAME>
+ </ROW>
+ <ROW>
+  <ID>60</ID>
+  <NAME>Caribbean</NAME>
+ </ROW>
+ <ROW>
+  <ID>70</ID>
+  <NAME>Channel Islands</NAME>
+ </ROW>
+ <ROW>
+  <ID>80</ID>
+  <NAME>Middle Africa</NAME>
+ </ROW>
+</ROWSET>
