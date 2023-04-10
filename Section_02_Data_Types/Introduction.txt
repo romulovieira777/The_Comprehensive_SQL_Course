@@ -1,0 +1,14 @@
+Section Overview
+
+This section focuses on Data Types. A data type is an attribute of data. The data type of a column in SQL determines what kind of data it can hold, 
+for example a numerical data type cannot hold letters.
+
+After completing this section you will be able to:
+
+Identify the main string, date and numerical data types
+
+Use the Describe Statement to retrieve the data types for columns in a table
+
+Perform simple mathematical operations in SQL SELECT statements
+
+This section will have a quiz at the end to test your knowledge.
