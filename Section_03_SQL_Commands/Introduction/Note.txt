@@ -1,0 +1,8 @@
+Note On String and Numerical Values
+
+Unlike numerical values, string values must be enclosed in single quotes.
+
+This is also the case when referencing a string value in a condition or clause. You will see examples of this throughout the course.
+
+In the next lecture we are inserting values into a table and you should note that all string values will be enclosed in single quotes.
+Numerical values do not need to be enclosed in single quotes unless they are stored as strings.
