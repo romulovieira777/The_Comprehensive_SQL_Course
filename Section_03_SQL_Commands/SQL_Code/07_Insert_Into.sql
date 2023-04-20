@@ -1,0 +1,26 @@
+INSERT INTO EBA_COUNTRIES_02 (
+    NAME
+  , POPULATION
+)
+VALUES(
+    'New Country'
+  , 20
+);
+
+
+INSERT INTO EBA_COUNTRIES_02 (
+    NAME
+)
+VALUES(
+    'Next Country'
+);
+
+
+INSERT INTO EBA_COUNTRIES_02 (
+    POPULATION
+  , NAME
+)
+VALUES(
+    100
+  , 'Next Country 02'
+);
