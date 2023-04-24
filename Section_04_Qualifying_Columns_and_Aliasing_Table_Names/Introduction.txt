@@ -1,0 +1,13 @@
+Section Overview
+
+This section will teach you:
+
+How to qualify column names
+
+That qualifying your column names can remove ambiguity when referencing a column in the select statement
+
+How to alias Table names
+
+How to qualify columns that are part of an aliased Table
+
+What you learn in this section will be important as we cover other areas later in the course. So please make sure you are comfortable with the content before moving on.
