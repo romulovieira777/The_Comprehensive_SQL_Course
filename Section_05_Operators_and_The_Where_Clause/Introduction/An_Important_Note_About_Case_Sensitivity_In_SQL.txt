@@ -1,0 +1,27 @@
+An Important Note About Case Sensitivity In SQL
+
+SQL Keywords such as SELECT, FROM and WHERE are CASE INSENSITIVE
+
+Table and Column names are also CASE INSENSITIVE
+
+Values contained in records are CASE SENSITIVE when they are part of most string data types including char, varchar, nchar and nvarchar
+
+If you have a table named EMP with two string columns as below
+
+
+Then the below query would be fine as the table name and column names are case insensitive
+
+Select name, job from emp;
+
+
+However, the following query would return no results as the string values are case sensitive within the records of a table
+
+Select * from emp where name = ’CARLOS’;
+
+
+You would need to amend the query so that the search condition of 'CARLOS' is changed to reflect the same case sensitivity of the value stored in the table (which is 'Carlos') to return a match:
+
+Select * from emp where name = ‘Carlos’;
+
+
+So remember that case sensitivity is important when referring to string values in your table.

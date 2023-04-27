@@ -1,0 +1,32 @@
+Assignment Questions
+
+Please attempt as many questions as you can, I will go over the solutions in the next lecture. Good luck!
+
+(For these assignment questions we will be using the Countries Sample Dataset)
+
+
+Question 1
+
+Filter the EBA_COUNTRIES table to retrieve records have have a population greater than or equal to 10 million and less than or equal to 20 million
+
+
+Question 2
+
+Create a copy of EBA_COUNTRIES and call it EBA_COUNTRIES_COPY. Update the “United Kingdom of Great Britain and Northern Ireland” to “United Kingdom” in the name field of the new table
+
+
+Question 3
+
+Write as SQL query to retrieve only those records from EBA_COUNTRIES that are in region 10, 20 or 30
+
+
+Question 4
+
+Filter records to show only those countries that begin with the letter “I” and contain the letter ”d” in the EBA_COUNTRIES table
+
+
+Question 5
+
+Query the EBA_COUNTRIES table to return only those records that have a population greater than 200 million and create a new column that holds the value 1 for all records where REGION_ID=10 and 0 if not.
+
+(Remember to qualify your column reference if you are using the * wildcard)

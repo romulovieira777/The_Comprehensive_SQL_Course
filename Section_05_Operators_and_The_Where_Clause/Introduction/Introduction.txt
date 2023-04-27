@@ -1,0 +1,13 @@
+Section Overview
+
+After completing this section you will learn:
+
+The main logical and comparison operators in SQL
+
+How to use the Where clause to filter your query results using logical and comparison operators
+
+How to use the where clause as part of Data Manipulation Language commands to update records in a table
+
+How to use the CASE Statement which is a row level conditional function
+
+We will then round this section off with some practical assignment questions which will give you a chance to develop your SQL skills and knowledge further.

@@ -1,0 +1,69 @@
+SELECT
+    *
+FROM
+    EBA_COUNTRIES
+WHERE
+    POPULATION > 300000000;
+
+
+SELECT
+    *
+FROM
+    EBA_COUNTRIES
+WHERE
+    POPULATION < 500000;
+
+
+
+SELECT
+    *
+FROM
+    EBA_COUNTRIES
+WHERE
+    NAME = 'Argentina';
+
+
+SELECT
+    *
+FROM
+    EBA_COUNTRIES
+WHERE
+    NAME LIKE 'A%';
+
+
+SELECT
+    *
+FROM
+    EBA_COUNTRIES
+WHERE
+    NAME LIKE '%land';
+
+
+SELECT
+    *
+FROM
+    EBA_COUNTRIES
+WHERE
+    NAME LIKE 'G%'
+AND
+    POPULATION > 200000000;
+
+
+SELECT
+    *
+FROM
+    EBA_COUNTRIES
+WHERE
+    NAME = 'Argentina'
+OR
+    NAME = 'Germany'
+OR
+    NAME = 'France';
+
+
+SELECT
+    *
+FROM
+    EBA_COUNTRIES
+WHERE
+    NAME IN ('Argentina', 'Germany', 'France');
