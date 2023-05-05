@@ -1,0 +1,13 @@
+Section Overview
+
+After completing this section you will learn:
+
+How to format dates in SQL using functions
+
+How to use date formatting functions to work with date values represented by different data types
+
+Simple String functions
+
+Simple Mathematical functions
+
+The section will end with some practical assignment questions
