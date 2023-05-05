@@ -67,7 +67,7 @@ Query the EBA_COUNTRIES table to return only those records that have a populatio
 (Remember to qualify your column reference if you are using the *wildcard).
 */
 SELECT
-    E.*
+    EBA_COUNTRIES.*
   , CASE
         WHEN REGION_ID = 10 THEN 1
         ELSE 0
