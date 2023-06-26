@@ -1,0 +1,27 @@
+Assignment Questions
+
+Please attempt as many questions as you can, I will go over the solutions in the next lecture. Good luck!
+
+(For these assignment questions we will be using the Employees Sample Dataset)
+
+
+Question 1
+
+Query the EMP table to return a column that contains the abbreviated month name from the HIREDATE field e.g. JAN
+
+
+Question 2
+
+Query the EMP table to return a column that returns the number of days from todays date to the hire date of the employee
+
+
+Question 3
+
+Query the EMP table to return a column that returns a string with the employees name, job and salary in the format “KING PRESIDENT, 5000”
+
+
+Question 4
+
+Query the EMP table to return a column that returns the salary of each employee in thousands and rounds up to the nearest 100.
+
+For BONUS POINTS return the values in this format: £1000k

@@ -1,0 +1,4 @@
+SELECT
+    HIREDATE
+FROM
+    EMP;

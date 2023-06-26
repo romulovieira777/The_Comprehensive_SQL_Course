@@ -1,0 +1,36 @@
+SELECT
+    *
+FROM
+    EMP;
+
+
+SELECT
+    ENAME
+  , LOWER(ENAME)
+FROM
+    EMP;
+
+
+SELECT
+    ENAME
+  , LENGTH(ENAME)
+FROM
+    EMP;
+
+
+SELECT
+    CONCAT(ENAME, JOB)
+FROM
+    EMP;
+
+
+SELECT
+    ENAME || ' ' || JOB
+FROM
+    EMP;
+
+
+SELECT
+    JOB, REPLACE(JOB, 'MANAGER', 'MAN')
+FROM
+    EMP;
