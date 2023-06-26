@@ -1,0 +1,36 @@
+Useful External Links On Functions
+
+Here are some useful links that cover functions for the different Database Management Systems:
+
+Date Formatting
+
+Oracle:  https://docs.oracle.com/cd/B19306_01/server.102/b14200/sql_elements004.htm
+
+MySQL: https://dev.mysql.com/doc/refman/8.0/en/date-and-time-functions.html
+
+Microsoft SQL Server: https://docs.microsoft.com/en-us/dotnet/standard/base-types/custom-date-and-time-format-strings?redirectedfrom=MSDN
+
+
+Date Functions
+Oracle: https://docs.oracle.com/cd/E49933_01/server.770/es_eql/src/ceql_functions_date.html
+
+MySQL: https://dev.mysql.com/doc/refman/8.0/en/date-and-time-functions.html
+
+Microsoft SQL Server: https://docs.microsoft.com/en-us/sql/t-sql/functions/date-and-time-data-types-and-functions-transact-sql?view=sql-server-ver15
+
+
+String Functions
+Oracle: https://docs.oracle.com/middleware/1221/biee/BIVUG/GUID-BBA975C7-B2C5-4C94-A007-28775680F6A5.htm#BILUG685
+
+MySQL: https://dev.mysql.com/doc/refman/8.0/en/string-functions.html
+
+Microsoft SQL Server: https://docs.microsoft.com/en-us/sql/t-sql/functions/string-functions-transact-sql?view=sql-server-ver15
+
+
+
+Mathematical Functions
+Oracle: https://docs.oracle.com/middleware/12212/biee/BIVUG/GUID-DE2A646A-2DAB-4D9E-BDDB-3AA4923BF1CE.htm#BILUG684
+
+MySQL: https://dev.mysql.com/doc/refman/8.0/en/mathematical-functions.html
+
+Microsoft SQL Server: https://docs.microsoft.com/en-us/sql/t-sql/functions/mathematical-functions-transact-sql?view=sql-server-ver15
