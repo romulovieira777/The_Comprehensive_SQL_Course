@@ -1,0 +1,26 @@
+Assignment Solutions (SQL Code)
+
+Question 1
+select to_char(hiredate,'MON') from emp;
+
+
+Question 2
+select
+
+sysdate,
+
+hiredate,
+
+sysdate - hiredate as days_from_today
+
+from emp;
+
+
+Question 3
+select ename||' '||job||', '||sal from emp;
+
+
+Question 4
+select round(sal/1000,1) as "sal (thousands)" from emp;
+
+BONUS: select '£'||round(sal/1000,1)||'k' as "salary (£k)" from emp;
