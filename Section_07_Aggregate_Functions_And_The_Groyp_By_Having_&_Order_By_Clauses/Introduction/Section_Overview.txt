@@ -1,0 +1,17 @@
+Section Overview
+
+This is a very important section as the clauses and functions taught in this lecture are among the most commonly used in SQL.
+
+After completing this section you will learn:
+
+    - How to use aggregation functions to summarise values
+
+    - How to use the Group By clause to group your tables into summary rows
+
+    - How to use the Having Clause to filter aggregated tables
+
+    - How to order your results by one or more columns
+
+    - The SQL order of execution for all of the clauses and operations covered so far
+
+The section will be rounded off with a series of assignment questions to test your practical knowledge
