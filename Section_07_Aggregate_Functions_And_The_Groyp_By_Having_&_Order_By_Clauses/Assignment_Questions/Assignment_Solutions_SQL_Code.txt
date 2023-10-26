@@ -1,0 +1,37 @@
+Assignment Solutions (SQL Code)
+
+Question 1
+select avg(population), max(population), min(population) from eba_countries;
+
+
+Question 2
+select * from eba_countries order by population desc;
+
+
+Question 3
+select
+sub_region_id,
+sum(population)
+from eba_countries
+group by sub_region_id
+order by sum(population) desc;
+
+
+Question 4
+select
+deptno,
+job,
+avg(sal)
+from emp
+group by deptno, job
+having job = 'MANAGER';
+
+or
+
+select
+deptno,
+job,
+avg(sal)
+from emp
+where job = 'MANAGER'
+group by deptno, job;

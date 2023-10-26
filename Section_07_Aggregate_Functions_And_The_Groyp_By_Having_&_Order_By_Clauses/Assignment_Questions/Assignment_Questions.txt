@@ -1,0 +1,27 @@
+Assignment Questions
+
+Please attempt as many questions as you can, I will go over the solutions in the next lecture. Good luck!
+
+
+For questions 1-3 we will be using the Countries Sample Dataset
+
+Question 1
+
+What are the average, minimum and maximum population values for all countries in the EBA_COUNTRIES table?
+
+
+Question 2
+
+Which Capital City has the 5th highest population?
+
+
+Question 3
+
+Using the EBA_COUNTRIES table find the SUB_REGION_ID that has the 5th highest population
+
+
+For question 4 we will be using the Employees Sample Dataset
+
+Question 4
+
+Which DEPTNO in the EMP table pays their managers the highest average salary?
