@@ -1,0 +1,23 @@
+Assignment Solutions (SQL Code)
+
+Question 1
+
+select
+emp.ename,
+emp.deptno,
+emp.sal,
+dept.dname
+from emp
+left join dept
+on emp.deptno = dept.deptno;
+
+
+Question 2
+
+select
+c.name as country,
+c.intermediate_region_id,
+cr.name as "intermediate name"
+from eba_countries c
+inner join eba_country_intermediates CR
+on c.intermediate_region_id = cr.id;
