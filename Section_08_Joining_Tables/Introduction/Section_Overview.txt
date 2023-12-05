@@ -2,7 +2,8 @@ Section Overview
 
 This is arguably one of the most important sections of this course.
 
-Joins are used to combine rows from two or more tables based on related columns between the tables. For example if two tables have an 
+Joins are used to combine rows from two or more tables based on related columns between the tables. For example if two
+tables have an
 associated field (e.g. Customer ID) then a join operation can be used to combine rows from both tables.
 
 The join operation is a fundamental part of relational databases.
@@ -13,5 +14,6 @@ After completing this section your will learn how to:
 
     - How to combine columns from multiple tables using joins
 
-We will round off the section with some practical assignment questions. It is crucial that you have a sound understanding of joins so please 
-ensure you are comfortable with this section before moving on as it is one of the most important aspects of relational databases and SQL.
+We will round off the section with some practical assignment questions. It is crucial that you have a sound
+understanding of joins so please ensure you are comfortable with this section before moving on as it is one of the most
+important aspects of relational databases and SQL.
