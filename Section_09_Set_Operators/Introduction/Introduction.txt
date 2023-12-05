@@ -1,0 +1,12 @@
+Section Overview
+
+This section will focus on SET Operators. We have already covered how to join tables together based on relationships
+between these tables and now SET Operators will show you how to combine the result of multiple queries into a single set
+
+After completing this section you will learn about:
+
+    - UNION and UNION ALL
+    - INTERSECT
+    - MINUS
+
+We will round this section off with a quiz.
